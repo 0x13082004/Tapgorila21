@@ -10,34 +10,34 @@
   "subtitle": "Tap to earn pata", 
   "description": "Tap Bandor to earn pata and it's a funny game",
 
-  "iconUrl": "https://tapgorila21.vercel.app/assets/icon.png",
-  "imageUrl": "https://tapgorila21.vercel.app/assets/embed-3x2.png",
-  "homeUrl": "https://tapgorila21.vercel.app/",
-  "canonicalDomain": "tapgorila21.vercel.app",
+  "iconUrl": "https://comet-click-carnage.vercel.app/assets/icon.png",
+  "imageUrl": "https://comet-click-carnage.vercel.app/assets/embed-3x2.png",
+  "homeUrl": "https://comet-click-carnage.vercel.app/",
+  "canonicalDomain": "comet-click-carnage.vercel.app",
 
-  "splashImageUrl": "https://tapgorila21.vercel.app/assets/splash-200.png",
+  "splashImageUrl": "https://comet-click-carnage.vercel.app/assets/splash-200.png",
   "splashBackgroundColor": "#000000",
   "primaryCategory": "games",
 
   "tags": ["game", "tap", "base", "miniapp"],
 
   "screenshotUrls": [
-    "https://tapgorila21.vercel.app/assets/screenshots/1.png",
-    "https://tapgorila21.vercel.app/assets/screenshots/2.png",
-    "https://tapgorila21.vercel.app/assets/screenshots/3.png"
+    "https://comet-click-carnage.vercel.app/assets/screenshots/1.png",
+    "https://comet-click-carnage.vercel.app/assets/screenshots/2.png",
+    "https://comet-click-carnage.vercel.app/assets/screenshots/3.png"
   ],
 
-  "heroImageUrl": "https://tapgorila21.vercel.app/assets/hero-1200x630.png",
+  "heroImageUrl": "https://comet-click-carnage.vercel.app/assets/hero-1200x630.png",
 
   "tagline": "Tap. Earn. Fun.",
 
   "ogTitle": "Bandor Tapper",
   "ogDescription": "Tap Bandor, earn pata, and climb the leaderboard!",
-  "ogImageUrl": "https://tapgorila21.vercel.app/assets/og-1200x630.png",
+  "ogImageUrl": "https://comet-click-carnage.vercel.app/assets/og-1200x630.png",
 
   "noindex": false,
 
-  "webhookUrl": "https://tapgorila21.vercel.app/api/webhook",
+  "webhookUrl": "https://comet-click-carnage.vercel.app/api/webhook",
 
   "requiredChains": ["eip155:8453"],
   "requiredCapabilities": ["actions.ready"]
